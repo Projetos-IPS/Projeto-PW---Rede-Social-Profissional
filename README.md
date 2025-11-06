@@ -6,7 +6,7 @@ Neste projeto foi-nos pedido um website ao estilo de uma rede social com informa
 
 ### Tecnologias Utilizadas
 - **Servidor**: Framework Express.js do Node.js
-- **Base de Dados**: SQL chamada `proj_pw_202100190_202100242`, conectada ao servidor através do módulo `mysql` e processada via pedidos AJAX com arquitetura RESTful.
+- **Base de Dados**: MYSQL chamada `proj_pw_202100190_202100242`, conectada ao servidor através do módulo `mysql` e processada via pedidos AJAX com arquitetura RESTful.
 - **Ícones**: Biblioteca Font Awesome
 
 ### Funcionalidades Gerais
